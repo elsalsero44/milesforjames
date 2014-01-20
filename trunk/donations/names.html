@@ -1,0 +1,284 @@
+<html><style type="text/css">
+<!--
+body {
+	background-color: #0091f7;
+}
+-->
+</style>
+<body>
+
+<div id="datacontainer" style=" font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ffffff;position:absolute;left:1px;top:10px;width:100%" onMouseover="scrollspeed=0" onMouseout="scrollspeed=cache">
+
+<!-- ADD YOUR SCROLLER CONTENT INSIDE HERE -->
+<ul>
+           
+          <li>Maribell Abeja-Devitto
+            <br>
+            <br>
+          </li>
+             <li>Arwood Family
+            <br>
+            <br>
+          </li>
+            <li>Emily Castillo<br>
+            <br>
+          </li>
+          
+          <li>Chhadwa Family
+            <br>
+            <br>
+          </li>
+          
+          
+          <li>Len Ciannamea
+            <br>
+            <br>
+          </li>
+          <li>Susan DeGuzman
+            <br>
+            <br>
+          </li>
+          <li>Davis Ferreria
+            <br>
+            <br>
+          </li>
+          <li>Gonzales Family        
+            <br>
+            <br>
+          </li>
+          <li>Grossmann Family        
+            <br>
+            <br>
+          </li>
+          <li>Bert Johnson
+          <br>
+            <br>
+          </li>
+          <li>Elsa Krokos
+            <br>
+            <br>
+          </li>
+          <li>McKenna Family        
+            <br>
+            <br>
+          </li>
+          
+          <li>Nucum Family
+            <br>
+            <br>
+          </li>
+                   
+<li>June Piticavong
+            <br>
+            <br>
+          </li>  
+            <li>Rotondi Family
+            <br>
+            <br>
+          </li>         
+          <li>Rudoy Family
+            <br>
+            <br> </li>
+          <li>Sheldon Family
+            <br>
+            <br>
+          </li>
+          <li>Soriano Family <br>
+            <br>
+      
+          </li>
+          <li>Brian Swanson
+            <br>
+            <br>
+          </li>
+          
+             <li>Cataneda Family
+            <br>
+            <br>
+          </li>
+          
+           <li>David Obar
+            <br>
+            <br>
+          </li>
+          
+               <li>Robinson Family
+            <br>
+            <br>
+          </li>
+          
+               <li>Sandr Rzeszutko
+            <br>
+            <br>
+          </li>
+          
+               <li>Michael Villarreal
+            <br>
+            <br>
+          </li>
+             <li>Anne Litchfield
+            <br>
+            <br>
+          </li>
+             <li>Paul Horbal
+            <br>
+            <br>
+          </li>
+             <li>Lynn Palomo
+            <br>
+            <br>
+          </li>
+             <li>Jocelyn Gottesman
+            <br>
+            <br>
+          </li>
+             <li>Mariano Santos
+            <br>
+            <br>
+          </li>
+             <li>So Family
+            <br>
+            <br>
+          </li>
+            
+             <li>Christine Choi
+            <br>
+            <br>
+          </li>
+           <li>Constantino Family
+            <br>
+            <br>
+          </li>
+            <li>Cynthia Dyas
+            <br>
+            <br>
+          </li>
+            <li>Adam Stob
+            <br>
+            <br>
+          </li>
+<li>Jacqueline Rodriguez
+            <br>
+            <br>
+          </li>
+          <li>Marizol Rodriguez
+            <br>
+            <br>
+          </li>
+                    <li>Jerry Miller
+            <br>
+            <br>
+          </li>
+                      <li>Virgilio Maningat
+            <br>
+            <br>
+          </li>
+                      <li>Linda Masibay
+            <br>
+            <br>
+          </li>
+                 <li>Gutierrez Family
+            <br>
+            <br>
+          </li>
+                  <li>Andrea Gronkowski
+            <br>
+            <br>
+          </li>
+                 <li>Rebecca Sunderland
+            <br>
+            <br>
+          </li>
+                    <li>Weerapan Family
+            <br>
+            <br>
+          </li>
+                <li>M Kristin Conklin 
+            <br>
+            <br>
+          </li>
+              <li>Donna Jacoby 
+            <br>
+            <br>
+          </li>
+               <li>C. Cudanes Family
+            <br>
+            <br>
+          </li>
+                <li>Pagcatipunan Family
+            <br>
+            <br>
+          </li>
+                <li>Waterson Family
+            <br>
+            <br>
+          </li>
+                <li>Carmela Baniewicz
+            <br>
+            <br>
+          </li>
+                    <li>F. Gutierrez Family
+            <br>
+            <br>
+          </li>
+                       <li>E. Cundanes Family
+            <br>
+            <br>
+          </li>
+          
+          
+          
+          
+        
+           
+</ul>
+<!-- END SCROLLER CONTENT -->
+
+</div>
+
+<script type="text/javascript">
+
+/***********************************************
+* IFRAME Scroller script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+***********************************************/
+
+
+var scrollspeed=cache=1
+
+
+var initialdelay=500
+
+function initializeScroller(){
+dataobj=document.all? document.all.datacontainer : document.getElementById("datacontainer")
+dataobj.style.top="5px"
+setTimeout("getdataheight()", initialdelay)
+}
+
+function getdataheight(){
+thelength=dataobj.offsetHeight
+if (thelength==0)
+setTimeout("getdataheight()",10)
+else
+scrollDiv()
+}
+
+function scrollDiv(){
+dataobj.style.top=parseInt(dataobj.style.top)-scrollspeed+"px"
+if (parseInt(dataobj.style.top)<thelength*(-1))
+dataobj.style.top="5px"
+setTimeout("scrollDiv()",40)
+}
+
+if (window.addEventListener)
+window.addEventListener("load", initializeScroller, false)
+else if (window.attachEvent)
+window.attachEvent("onload", initializeScroller)
+else
+window.onload=initializeScroller
+
+</script>
+
+</body>
+</html>
