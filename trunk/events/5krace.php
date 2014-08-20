@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
-<?php include ("/home/milesfor/public_html/includes/constants.php") ?>
+<?php include ("../includes/constants.php") ?>
 <html>
 <head>
 <title>Miles for James</title>
@@ -14,13 +14,13 @@
 	color: #333333;
 	font-style: italic;
 }
-#deadline {
+.deadline {
 	color:#FF0000;
 	font-weight:bold;
 }
 -->
 </style>
-<div><a href="../index2.php" title="Annual 5K Race" id="container_5krace">Annual 5K Race</a></div>
+<div><a href="../index.php" title="Annual 5K Race" id="container_5krace">Annual 5K Race</a></div>
 
 <div id="container2">	
   <div id="nav">
@@ -38,9 +38,9 @@
 ?>          
         <p>Registration is now open! It's easy, convenient and secure. All you need is a credit card and to answer a few questions.</p>
         <p>&nbsp;</p>
-        <p><a href="https://www.signmeup.com/site/reg/register.aspx?fid=<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
+        <p><a href="https://www.signmeup.com/<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
-        <p id="deadline">**On-Line Registration will close on the night before the race at 9:00pm.</p>
+        <p class="deadline">Register by <u>September 14<sup>th</sup></u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
         <p>&nbsp;</p>
         <p>**Day-of-Registration will be available for $30/indv and $100/family of 4.</p>
 <?
@@ -54,7 +54,7 @@
 ?>            
         <h2>General Information</h2>
         <p><strong>When:</strong> </p>
-        <p>Saturday, September 21, 2013</p>
+        <p>Saturday, September 27, 2014</p>
         <p>&nbsp;</p>
         <p><strong>Time:</strong> </p>
         <p>7:30 am Packet Pick up/ Same Day Registration Open<br>
@@ -74,12 +74,12 @@
         </p>
         <p>&nbsp;</p>
         <p><strong>Route: </strong></p>
-        <p>Click <strong><a href="../images/MFJ-Map-2011.png" target="_blank">here</a></strong> to view route.</p>
+        <p>Click <strong><a href="../images/5KRoute.jpg" target="_blank">here</a></strong> to view our <strong>certifiied</strong> route.  USATF Certification Number: IL-13034-JW</p>
         <p>&nbsp;</p>
         <p><strong>Packet Pickup: </strong></p>
         <p>Packet pick up available on race day only starting at 7:30am.</p>
         <p>&nbsp;</p>
-        <p>Packets consist of your race bib, our new MILES for JAMES Race shirts, MFJ paraphernalia, and other various goodies from our sponsors such as Road ID, Cliff Bar, and Dental Works.</p>
+        <p>Packets consist of your race bib, our new MILES for JAMES Race shirts, MFJ paraphernalia, and other various goodies from our sponsors.</p>
         <p>&nbsp;</p>
         <p><strong>Awards: </strong><br>
           Prizes will be awarded to the top overall male and female finisher. Medals to the top 3 male and female finishers in each age group. Medals to all participants in the 100 yd kid dash. Additional prizes to the top 3 fundraisers.<br>
@@ -90,13 +90,14 @@ if ($c_bShowPledgeChallenge)
 {        
 ?>
         <h2>Accept our Pledge Challenge and be rewarded!</h2>
-        <p>To help make the <?=$c_szRaceIdentifier?> Annual MILES for JAMES 5K Run/Walk more successful than the past years, we are challenging you to raise pledges.  In addition to having prizes for the top 3 fundraisers, <strong>participants with pledges of $100 or more will be refunded their registration fee of $25.</strong>  Pledge forms and money will be collected on race day only.  Refunds will be awarded as a Visa Gift Card or cash.  Please allow 4-6 weeks for the Visa Gift Card.</p>
+        <p>To help make the <?=$c_szRaceIdentifier?>
+         Annual MILES for JAMES 5K Run/Walk more successful than the past years, we are challenging you to raise pledges.  Pledge forms and money will be collected on race day only.</p>
         <p>&nbsp;</p>
         <p><strong>Participants with pledges of $250 or more will receive this special MILES for JAMES long sleeve shirt.</strong></p>
         <p>&nbsp;</p>
         <p><img src="../images/MFJ_LongSleeve_Incentive2012.jpg" alt="Woo, cool shirt!"></p>
         <p>&nbsp;</p>
-        <p><a href="mfjPledgeSheet.pdf" target="_blank"><img src="../images/pledgebutton.gif" alt="Click here to download the MFJ Form" width="150" height="44" border="0"></a></p>
+        <p><a href="mfJPledgeSheet.pdf"><img src="../images/pledgebutton.gif" alt="Click here to download the MFJ Form" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
 <?
 }
@@ -144,6 +145,10 @@ Turn RIGHT on 92nd Ave. <br>
 <p><a href="mailto:sales@milesforjames.com"><img src="../images/banners/wristbands_220x200.gif" alt="Miles for James wristbands" width="220" height="200" border="0"></a>
 <p>
 <p>
+<h2>4th Annual 5K Race Results<br>
+  <span class="style3">September 21, 2013</span></h2>
+<p><strong>Race results:</strong> <a href="results/2013/MILES-FOR-JAMES-5K-AGE-GROUP-RESULTS.html">Gender/Age Group</a><br>
+  <strong>Race results:</strong> <a href="results/2013/MILES-FOR-JAMES-5K-OVERALL-RESULTS.html">Overall</a></p>
 <h2>3rd Annual 5K Race Results<br>
   <span class="style3">September 22, 2012</span></h2>
 <p><strong>Race results:</strong> <a href="results/2012/MILES-FOR-JAMES-5K-AGE-GROUP-RESULTS.htm">Gender/Age Group</a><br>
