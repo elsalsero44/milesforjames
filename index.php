@@ -92,19 +92,19 @@ funding to institutions associated with the care, treatment, and research of TBI
 	  </div>
       <div id="promohome1">
        
-        <p><a href="events/5krace.php"><strong>2012 Race Results</strong></a><br>
-          <span class="style3">September 22, 2012</span></h2>
+        <p><a href="events/5krace.php"><strong>2014 Race Results</strong></a><br>
+          <span class="style3">September 27, 2014</span></h2>
           <br>
           <br>
-        <p><strong>Race results:</strong> <a href="events/results/2012/MILES-FOR-JAMES-5K-AGE-GROUP-RESULTS.htm"MILES-FOR-JAMES-5K-AGE-GROUP-RESULTS.htm">Gender/Age Group</a><br>
-        <strong>Race results:</strong> <a href="events/results/2012/MILES-FOR-JAMES-5K-OVERALL-RESULTS.htm">Overall</a></p>
+        <p><strong>Race results:</strong> <a href="http://racetime.info/wp-content/uploads/2014/09/Miles-For-James-5K-Age-Group-Results.htm">Gender/Age Group</a><br>
+        <strong>Race results:</strong> <a href="http://racetime.info/wp-content/uploads/2014/09/Miles-For-James-5K-Overall-Results.htm">Overall</a></p>
         <p><a href="events/5krace.php" target="_blank">
           <br>
-        <img src="images/banners/5K_338x120.gif" alt="1st Annual Miles for James 5K Race" width="338" height="120" border="0"></a><br>
+        <img src="images/banners/5K_220x200.png" alt="1st Annual Miles for James 5K Race" width="220" height="200" border="0"></a><br>
           <br>
           <br>
           <a href="events/5krace.php"></a><br>
-          <a href="mailto: sales@milesforjames.com"><img src="images/banners/wristband_338x120.gif" alt="MFJ wristbands" width="338" height="120" border="0"></a><br>
+          <br>
         </p>
       </div>
        

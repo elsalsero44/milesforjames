@@ -1,6 +1,6 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
-<?php include ("/home/milesfor/public_html/includes/constants.php") ?>
+<?php include ("/home/dperea/milesforjames.com/includes/constants.php") ?>
 <html>
 <head>
 <title>Miles for James</title>
@@ -60,7 +60,7 @@
       <div id="subrightarea">
         <p><br>
           <br>
-<p><a href="5krace.php"><img src="../images/banners/5K_220x200.gif" width="220" height="200" border="0"></a><br>                
+<p><a href="5krace.php"><img src="../images/banners/5K_220x200.png" width="220" height="200" border="0"></a><br>                
       </div>
        
 <div id="footer">
