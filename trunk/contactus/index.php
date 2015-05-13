@@ -1,7 +1,7 @@
 <?php
 	// setup the database that we're going to be using on this page.
-	include("/home/milesfor/public_html/includes/dbconnect.php");
-	include("/home/milesfor/public_html/includes/utilities.php");
+	include("../includes/dbconnect.php");
+	include("../includes/utilities.php");
 	include("queries.php");
 	require_once "Mail.php";
 	
@@ -185,7 +185,7 @@ if (true)
       <div id="subrightarea">
         <p><br>
           <br>
-<p><a href="../events/5krace.php"><img src="../images/banners/5K_220x200.gif" alt="Miles for James 5K Race" width="220" height="200" border="0"></a><br>                
+<p><a href="../events/5krace.php"><img src="../images/banners/5K_220x200.png" alt="Miles for James 5K Race" width="220" height="200" border="0"></a><br>                
       </div>
        
 <div id="footer">

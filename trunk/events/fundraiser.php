@@ -54,7 +54,7 @@
 	  </div>
       <div id="subrightarea">
         
-<p><a href="5krace.php"><img src="../images/banners/5K_220x200.gif" width="220" height="200" border="0"></a>
+<p><a href="5krace.php"><img src="../images/banners/5K_220x200.png" width="220" height="200" border="0"></a>
 <p><br>
   <br>
 <p><a href="mailto:sales@milesforjames.com"><img src="../images/banners/wristbands_220x200.gif" alt="Miles for James wristbands" width="220" height="200" border="0"></a>
