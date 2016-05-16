@@ -379,7 +379,7 @@ padding: 10px 5px 0px 5px;
 	position:absolute;
 	top: 23px;
 	left: 652px;
-	padding: 10px 5px 0px 5px;
+	padding: 50px 5px 0px 5px;
 	height: 1412px;
 }
 
@@ -443,3 +443,20 @@ color:#ffffff;
 background-color:#666666;
 color:#000000;
 }
+
+.sponsorText
+{
+	font-weight:bold;
+}
+
+.sponsorImage
+{
+	margin-bottom:30px;
+}
+.sponsorImage img
+{
+	width:95%;
+	height:auto;
+	border:0;
+}
+
