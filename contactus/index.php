@@ -1,12 +1,11 @@
 <?php
+	error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED ^ ~E_STRICT);
+	set_include_path("." . PATH_SEPARATOR . ($UserDir = dirname($_SERVER['DOCUMENT_ROOT'])) . "/pear/php" . PATH_SEPARATOR . get_include_path());
+	require_once "Mail.php";
 	// setup the database that we're going to be using on this page.
-	include("../includes/dbconnect.php");
 	include("../includes/utilities.php");
 	include("queries.php");
-	require_once "Mail.php";
-	
-	// open up the db for use...
-	$poDb = poOpenDatabase();
+
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
 "http://www.w3.org/TR/html4/loose.dtd">
@@ -32,7 +31,7 @@
   </div>
 	<div id="middlearea">
 	  <p>
-      <div id="logo"><img src="../images/Jlogo.gif" width="84" height="86"></div>
+      <div id="logo"><img src="../images/j-logo.png"></div>
       <div id="maintextsub">
         <h1>Contact Us...</h1>
  
@@ -107,34 +106,27 @@ if (true)
 	{
 		if (bIsValidEmail($_POST['email']))
 		{
-			$szFrom = $_POST['name'] ." <" . $_POST['email'] . ">";
-			$szTo = "Miles For James <volunteers@milesforjames.com>";
-			$szSubject = "Miles For James Volunteer";
+			$host = "ssl://mail.milesforjames.com";
+			$username = "volunteers@milesforjames.com";
+			$password = "superman44";
+			$port = "465";
+			$to = "volunteers@milesforjames.com";
+			$email_from = "volunteers@milesforjames.com";
+			$email_subject = "Miles For James Volunteer";
+			$email_address = "volunteers@milesforjames.com";
 			
+
 			// build body of message from form parms.
-			$szBody 	= 	"Name: " . $_POST['name'] . "\n";
-			$szBody 	.= 	"Email: " . $_POST['email'] . "\n";
-			$szBody 	.= 	"Phone 1: (" . $_POST['phone1_areacode'] . ") " . $_POST['phone1_prefix'] . "-" . $_POST['phone1_postfix'] . "\n";
-			$szBody 	.= 	"Phone 2: (" . $_POST['phone2_areacode'] . ") " . $_POST['phone2_prefix'] . "-" . $_POST['phone2_postfix'] . "\n\n";
-			$szBody 	.= 	"\nNotes: " . $_POST['notes'];
-	
-			// setup the standard hosting info to send SMTP through this email address.
-			$szHost = "mail.milesforjames.com";
-			$szUserName = "volunteers+milesforjames.com";
-			$szPassword = "superman";
-	
-			$szHeaders = array (	'From' => $szFrom,
-									'To' => $szTo,
-									'Subject' => $szSubject);
-	
-			$smtp = Mail::factory(	'smtp',
-									array ('host' => $szHost,
-									'auth' => true,
-									'username' => $szUserName,
-									'password' => $szPassword));
-	
-			$mail = $smtp->send($szTo, $szHeaders, $szBody);
-	
+			$email_body 	= 	"Name: " . $_POST['name'] . "\n";
+			$email_body	.= 	"Email: " . $_POST['email'] . "\n";
+			$email_body 	.= 	"Phone 1: (" . $_POST['phone1_areacode'] . ") " . $_POST['phone1_prefix'] . "-" . $_POST['phone1_postfix'] . "\n";
+			$email_body 	.= 	"Phone 2: (" . $_POST['phone2_areacode'] . ") " . $_POST['phone2_prefix'] . "-" . $_POST['phone2_postfix'] . "\n\n";
+			$email_body 	.= 	"\nNotes: " . $_POST['notes'];
+
+			$headers = array ('From' => $email_from, 'To' => $to, 'Subject' => $email_subject, 			'Reply-To' => $email_address);
+			$smtp = Mail::factory('smtp', array ('host' => $host, 'port' => $port, 'auth' => true, 'username' => $username, 'password' => $password));
+			$mail = $smtp->send($to, $headers, $email_body);
+
 			if (PEAR::isError($mail)) 
 			{
 				echo("<p>" . $mail->getMessage() . "</p>");
@@ -197,7 +189,3 @@ if (true)
 <p>
 </body>
 </html>
-<?
-	// close the db.
-	vCloseDatabase($poDb);
-?>

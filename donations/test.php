@@ -13,8 +13,8 @@
   </div>
 	<div id="middlearea">
 	  <p>
-      <div id="logo"><img src="../images/Jlogo.gif" width="84" height="86"></div>
-      <div id="maintextsub">
+         <div id="logo"><img src="../images/j-logo.png"></div>
+         <div id="maintextsub">
       <h1>How to Donate </h1>
     
 	    

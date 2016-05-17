@@ -15,7 +15,7 @@
   </div>
 	<div id="middlearea">
 	  <p>
-      <div id="logo"><img src="../images/Jlogo.gif" width="84" height="86"></div>
+      <div id="logo"><img src="../images/j-logo.png"></div>
       <div id="maintextsub">
       <h1>The Right Time, James's Story</h1>
     

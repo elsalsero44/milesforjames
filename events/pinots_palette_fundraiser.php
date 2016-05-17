@@ -21,33 +21,36 @@
         <h1>Painting With MFJ</h1>
         Is your home or office in need of a conversation piece?  You are in luck!  MFJ is hosting our first painting fundraiser at Pinot's Palette.  Not an artist?  Not a problem.  Simply register through the link below, and Pinot’s Palette will take care of the rest.  Please join us for a fun and relaxing night while supporting a great cause!
  
-Register:
-Please register for our event at: <a href="http://www.pinotspalette.com/naperville/class/53839"?>http://www.pinotspalette.com/naperville/class/53839</a>
+<h2>Register:</h2>
+<p>Please register for our event at: <a href="http://www.pinotspalette.com/naperville/class/53839"?>http://www.pinotspalette.com/naperville/class/53839</a>
+</p>
  
-When:
-Monday, June 29, 2015
+<h2>When:</h2>
+<p>Monday, June 29, 2015</p>
  
-Time:
+<h2>Time:</h2>
 6:30pm – 9:00pm
  
-Place:
-Pinot's Palette
-175 Jackson Ave #123
-Naperville, IL 60540
-Located on the Downtown Riverwalk Naperville (same plaza as Egg Harbor Café)
+<h2>Place:</h2>
+<p>Pinot's Palette<br>
+175 Jackson Ave #123<br>
+Naperville, IL 60540<br>
+Located on the Downtown Riverwalk Naperville (same plaza as Egg Harbor Café)</p>
  
-Age/Price:
-$38/person
-Ages 13 and up
+<h2>Age/Price:</h2>
+<p>$38/person<br>
+Ages 13 and up</p>
  
-Parking:
-Parking is free in all downtown Naperville on-street parking spaces, municipal surface parking lots and parking decks.
+<h2>Parking:</h2>
+<p>Parking is free in all downtown Naperville on-street parking spaces, municipal surface parking lots and parking decks.<br>
 Valet Parking is available at Sullivan’s Restaurant.
+</p>
  
-Other items to note:
-Light refreshments will be provided
-Cash bar available
-Seating reserved for registrants only 
+<h2>Other items to note:</h2>
+<p>Light refreshments will be provided<br>
+Cash bar available<br>
+Seating reserved for registrants only <br><br><br>
+</p>
   </div>
       <div id="subrightarea">
         

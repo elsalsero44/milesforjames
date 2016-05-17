@@ -14,7 +14,7 @@
   </div>
 	<div id="middlearea">
 	  <p>
-      <div id="logo"><img src="../images/Jlogo.gif" width="84" height="86"></div>
+      <div id="logo"><img src="../images/j-logo.png"></div>
       <div id="maintextsub">
         <h1>Title here...        </h1>
         <h2>Sponsor MFJ Benefit Fund Raiser</h2>
