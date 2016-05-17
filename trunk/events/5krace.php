@@ -28,9 +28,9 @@
   </div>
 	<div id="middlearea">
 	  <p>
-      <div id="logo"><img src="../images/Jlogo.gif" width="84" height="86"></div>
+      <div id="logo"><img src="../images/j-logo.png"></div>
       <div id="maintextsub">
-        <h1>Support A Hero's Journey</h1>
+        <h1>Head for Safety 5K</h1>
         <h2>Registration</h2>
  <? 
  	if ($c_bRegistrationOpen)
@@ -40,7 +40,7 @@
         <p>&nbsp;</p>
         <p><a href="https://www.signmeup.com/<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
-        <p class="deadline">Register by <u>September 14<sup>th</sup></u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
+        <p class="deadline">Register by <u>October 1<sup>st</sup></u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
         <p>&nbsp;</p>
         <p>**Day-of-Registration will be available for $30/indv and $100/family of 4.</p>
 <?
@@ -54,7 +54,7 @@
 ?>            
         <h2>General Information</h2>
         <p><strong>When:</strong> </p>
-        <p>Saturday, September 19, 2015</p>
+        <p>Saturday, October 1, 2016</p>
         <p>&nbsp;</p>
         <p><strong>Time:</strong> </p>
         <p>7:30 am Packet Pick up/ Same Day Registration Open<br>
@@ -79,7 +79,7 @@
         <p><strong>Packet Pickup: </strong></p>
         <p>Packet pick up available on race day only starting at 7:30am.</p>
         <p>&nbsp;</p>
-        <p>Packets consist of your race bib, our new MILES for JAMES Race shirts, MFJ paraphernalia, and other various goodies from our sponsors.</p>
+        <p>Packets consist of your race bib, our new Head For Safety Race shirts, MFJ paraphernalia, and other various goodies from our sponsors.</p>
         <p>&nbsp;</p>
         <p><strong>Awards: </strong><br>
           Prizes will be awarded to the top overall male and female finisher. Medals to the top 3 male and female finishers in each age group. Medals to all participants in the 100 yd kid dash. Additional prizes to the top 3 fundraisers.<br>
@@ -128,8 +128,8 @@ Turn RIGHT on 92nd Ave. <br>
         <p></p>
         <h2>Questions?</h2>
         <p class="style1">&nbsp;</p>
-        <p>For any questions about the Miles for James Run/Walk, please email <a href="mailto:info@milesforjames.com">info@milesforjames.com</a></p>
-<p></p>
+        <p>For any questions about the Head For Safety 5K, please email <a href="mailto:info@milesforjames.com">info@milesforjames.com</a></p>
+        <p></p>
 <p>&nbsp;</p>
   <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -143,6 +143,12 @@ Turn RIGHT on 92nd Ave. <br>
       <div id="subrightarea">
         
 <p><a href="mailto:sales@milesforjames.com"><img src="../images/banners/wristbands_220x200.gif" alt="Miles for James wristbands" width="220" height="200" border="0"></a>
+<p>
+<h2>6th Annual 5K Race Results<br>
+  <span class="style3">September 19, 2015</span></h2>
+<p><strong>Race results:</strong> <a href="http://racetime.info/wp-content/uploads/2015/09/Miles-For-James-5K-Age-Group-Results.htm">Gender/Age Group</a><br>
+  <strong>Race results:</strong> <a href="http://racetime.info/wp-content/uploads/2015/09/Miles-For-James-5K-Overall-Results.htm">Overall</a></p>
+
 <p>
 <h2>5th Annual 5K Race Results<br>
   <span class="style3">September 27, 2014</span></h2>
