@@ -1,15 +1,20 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
 <?php
-	error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED ^ ~E_STRICT);
-	set_include_path("." . PATH_SEPARATOR . ($UserDir = dirname($_SERVER['DOCUMENT_ROOT'])) . "/pear/php" . PATH_SEPARATOR . get_include_path());
+
+error_reporting(E_ALL ^ E_NOTICE ^ E_DEPRECATED ^ E_STRICT);
+
+set_include_path("." . PATH_SEPARATOR . ($UserDir = dirname($_SERVER['DOCUMENT_ROOT'])) . "/pear/share/pear/" . PATH_SEPARATOR . get_include_path());
+	
 	require_once "Mail.php";
+	
 	// setup the database that we're going to be using on this page.
 	include("../includes/utilities.php");
 	include("queries.php");
 
 ?>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
 <head>
 <title>Miles for James</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">

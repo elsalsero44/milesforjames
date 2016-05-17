@@ -104,9 +104,6 @@ funding to institutions associated with the care, treatment, and research of TBI
           <br>
           <br>
           <a href="events/5krace.php"></a><br>
-          <a href="events/pinots_palette_fundraiser.php" target="_blank">
-          <br>
-        <img src="images/banners/banners-pinots-palette-220x200.png" alt="Pinot's Palette Fundraiser" width="220" height="200" border="0"></a><br>
           <br>
           <br>
           <br>
