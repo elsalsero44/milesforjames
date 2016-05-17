@@ -27,7 +27,7 @@
         <p><br>
           Any donations or contributions made would be greatly appreciated. Again, our intent is to ensure the future of <strong>Miles for James </strong>as the organization grows with each annual event. We hope your company/organization will be able to join us in this endeavor.</p>
         <p>&nbsp;</p>
-        <p>Click <strong><a href="sponsorLetter_2015.pdf" target="_blank">here</a></strong> to download the sponsorship form.<br>
+        <p>Click <strong><a href="sponsor-letter.pdf" target="_blank">here</a></strong> to download the sponsorship form.<br>
         </p>
         <p><br>
         On behalf of James Javier and his family, we greatly appreciate your time and consideration.</p>
