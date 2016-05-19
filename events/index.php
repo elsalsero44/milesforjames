@@ -20,7 +20,7 @@
       <div id="maintextsub">
         <h1>Join us... </h1>
         <h2><?=$c_szRaceIdentifier?> Head For Safety 5K</h2>
-        <p>The <?=$c_szRaceIdentifier?> Head For Safety 5K will be held to raise funds for rising medical costs for&nbsp;James&nbsp;Javier.&nbsp; A portion of the proceeds will be donated to the brain injury department at&nbsp;the Rehabilitation Insitute of Chicago.<br>
+        <p>The <?=$c_szRaceIdentifier?> Head For Safety 5K, formerly known as the MILES for JAMES 5K, will be held to help spread awareness about Traumatic Brain Injuries (TBI), raise funds for TBI research, TBI victims, and medical costs for James Javier.<br>
             <br>
         </p>
         <p><strong><a href="5krace.php">LEARN MORE &gt;</a></strong></p>

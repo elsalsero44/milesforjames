@@ -75,9 +75,9 @@ funding to institutions associated with the care, treatment, and research of TBI
         <p><br>
           Your support through prayer, donations, or goodwill strengthens and uplifts his family and friends who are in this fight with him.  Monetary donations can be made <a href="donations/index.php" target="_blank">here</a>. </p>
         <p>&nbsp;</p>
-        <p>To provide motivational support to James and his family, visit <a href="http://www.facebook.com" target="_blank">Facebook/Miles for James</a>.  For additional information on James and his accomplishments, visit <a href="http://www.jamesjavier.com">www.jamesjavier.com</a>.  </p>
+        <p>To provide motivational support to James and his family, visit <a href="http://www.facebook.com" target="_blank">Facebook/Miles for James</a>.</p>
         <p>&nbsp;</p>
-        <p>To learn more about traumatic brain injury (TBI) and how you can help, please visit <a href="http://www.asha.org/public/speech/disorders/TBI.htm." target="_blank">www.asha.org/public/speech/disorders/TBI.htm.</a></p>
+        
 <p>&nbsp;</p>
         <div id="hpfooter">Partial proceeds collected will be donated to organizations that specialize in the care, treatment, and research associated with traumatic brain injuries.</div>
 <p>&nbsp;</p>

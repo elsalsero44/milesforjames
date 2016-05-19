@@ -29,9 +29,7 @@
 	      This passion spilled over in his pursuit of a healthy, active lifestyle that has been, and continues to be, an inspiration to many people.  If he was not working out at Lifetime Fitness, he was on a 50-mile bike ride somewhere.  James was known for going &ldquo;above and beyond&rdquo; in everything he does, and he never hesitated in his pursuit of new endeavors.  In fact, it was exhausting at times to keep up with all of his activities, his latest must-haves, and his newest goals.  But that was James.  That is James.</p>
 	      <p><br>
 	      This confidence and determination remains true as James makes his journey back to his family and friends.  His dedication to life is readily apparent in his current battle to recover.  True to James, he is not only fighting for himself, but for the many people who are waiting for him.  The &ldquo;right time&rdquo; will come, and James will return. </p>
-        <p><br>
-          For additional information on James and his accomplishments, visit <a href="http://www.jamesjavier.com" target="_blank">www.jamesjavier.com</a>.
-          </p>
+        
         </p>
         <p>&nbsp;</p>
   <p>&nbsp;</p>

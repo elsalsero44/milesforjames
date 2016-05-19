@@ -40,7 +40,7 @@
         <p>&nbsp;</p>
         <p><a href="https://www.signmeup.com/<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
-        <p class="deadline">Register by <u>October 1<sup>st</sup></u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
+        <p class="deadline">Register by September<u> 10th</u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
         <p>&nbsp;</p>
         <p>**Day-of-Registration will be available for $30/indv and $100/family of 4.</p>
 <?
@@ -79,7 +79,7 @@
         <p><strong>Packet Pickup: </strong></p>
         <p>Packet pick up available on race day only starting at 7:30am.</p>
         <p>&nbsp;</p>
-        <p>Packets consist of your race bib, our new Head For Safety Race shirts, MFJ paraphernalia, and other various goodies from our sponsors.</p>
+        <p>Packets consist of your race bib, our new Head For Safety Race shirts and other various goodies from our sponsors.</p>
         <p>&nbsp;</p>
         <p><strong>Awards: </strong><br>
           Prizes will be awarded to the top overall male and female finisher. Medals to the top 3 male and female finishers in each age group. Medals to all participants in the 100 yd kid dash. Additional prizes to the top 3 fundraisers.<br>
