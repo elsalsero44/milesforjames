@@ -41,8 +41,6 @@
         <p><a href="https://www.signmeup.com/<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
         <p class="deadline">Register by September<u> 10th</u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
-        <p>&nbsp;</p>
-        <p>**Day-of-Registration will be available for $30/indv and $100/family of 4.</p>
 <?
 	}
 	else
@@ -67,11 +65,13 @@
         <p>	18500 92nd Ave, Tinley Park, IL 60487<br>
         </p>
         <p>&nbsp;</p>
-        <p><strong>Price:</strong> </p>
+        <p><strong>Price (prior to race day):</strong> </p>
         <p>$25 / individual</p>
         <p>$80 / family of four (must have same last name)</p>
-        <p>$10 / child for 100 Yard Kid's Dash (10 years and under)<br>
-        </p>
+        <p>$10 / child for 100 Yard Kid's Dash (10 years and under)</p>
+        <p><b>Team Registration: </b>$20 / team member (must have a team of 7 or more individuals) Download team form <a href="MFJTeamForm.pdf">here.</a></p>
+        <p>&nbsp;</p>
+        <p>**Day-of-Registration will be available for $30/individual, $100/family of 4, or $25/team member.</p>
         <p>&nbsp;</p>
         <p><strong>Route: </strong></p>
         <p>Click <strong><a href="../images/5KRoute.jpg" target="_blank">here</a></strong> to view our <strong>certifiied</strong> route.  USATF Certification Number: IL-13034-JW</p>
