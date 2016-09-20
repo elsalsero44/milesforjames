@@ -11,7 +11,7 @@
 
 <div><a href="../index2.php" title="Sponsorship" id="container_sponsorship">Sponsorship</a></div>
 
-<div id="container2">	
+<div id="container2" class="sponsor-page">	
   <div id="nav">
     <?php include ("../includes/nav.html") ?>
   </div>
@@ -36,6 +36,60 @@
         <p>For more info please email <a href="mailto:info@milesforjames.com">info@milesforjames.com</a>.</p>
         <p>&nbsp;</p>
         <p>&nbsp;</p>
+        
+        <h1>Our Sponsors</h1>
+        <div class="sponsor-list legacy">
+            <h2>Legacy</h2>
+            <hr>
+            <ul class="clear-both">
+	            <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.ultraevents.com/"><img class="large-logo" src="../images/sponsors/chicago_premier.jpg" alt="Chicago Premier"></a></li>
+            	<li class="v-large-logo"><a class="v-center v-center-link" href="http://inteqinsights.com/"><img class="large-logo" src="../images/sponsors/inteQ_CYAN_CMYK.jpg" alt="Inte Q"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.cliffbar.com/"><img class="v-large-logo" src="../images/sponsors/cliffbar_color.jpg" alt="Cliff Bar"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="https://www.walgreens.com/"><img class="large-logo" src="../images/sponsors/walgreens.jpg" alt="Walgreens"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.medprohealthproviders.com/"><img class="large-logo" src="../images/sponsors/Medpro.jpg" alt="Med Pro"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="https://www.linkedin.com/in/tommyreytorres"><img class="large-logo" src="../images/sponsors/TommyTorres.png" alt="Tommy Torres Design"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="https://sites.google.com/site/cosmopolitanunitedchurch/"><img class="large-logo" src="../images/sponsors/cosmo.jpg" alt="Cosmopolitan United Methodist Church"></a></li>
+            </ul>
+            <ul class="clear-both">
+                <li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/RoadID.jpg" alt="Road ID"></li>
+                <li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/need_a_hand.jpg" alt="Steve Handyman"></li>
+            </ul>
+            <ul>
+                <li>Bangkok Grocery</li>
+                <li>Running For Kicks</li>
+                <li>Cooper's Hawk</li>
+                <li>Walt's Food</li>
+                <li>CrossTech Communications</li>
+            </ul>
+        </div>
+        <div class="sponsor-list superhero">
+	        <h2>Superhero</h2>
+            <hr>
+            <ul class="clear-both">
+	            <li class="v-large-logo"><a class="v-center v-center-link" href="http://aestheticadayspamokena.com/"><img class="large-logo" src="../images/sponsors/AestheticaDaySpa.jpg" alt="Aesthetic Day Spa"></a></li>
+            	<li class="v-large-logo"><a class="v-center v-center-link" href="https://www.selective.com/"><img class="large-logo" src="../images/sponsors/SelectiveResponse288.jpg" alt="Selective"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="https://www.olsoninsgroup.com/"><img class="large-logo" src="../images/sponsors/olson_logo.png" alt="Olson"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="https://www.statefarm.com/agent/US/IL/Chicago/Freddie-Navarro-0L4JC1YS000"><img class="large-logo" src="../images/sponsors/StateFarm.jpg" alt="State Farm"></a></li>
+            </ul>
+        </div>
+        <div class="sponsor-list sidekick">
+       		<h2>Faithful Sidekick</h2>
+       		<hr>
+            <ul class="clear-both">
+            	<li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/MBFinancial-Bank.jpg" alt="MB Financial Bank"></li>
+            	<li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/keller_williams.jpg" alt="Keller-Williams Realty"></li>
+                <li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/GreatSmiles.jpg" alt="Dr. Lang - Great Smiles"></li>
+                <li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/aloftbolingbrook.jpg" alt="Aloft Bolingbrook"></li>
+            </ul>
+        </div>
+        <div class="sponsor-list citizen">
+       		<h2>Concerned Citizen</h2>
+        	<hr>
+            <ul class="clear-both">
+            	<li>ContaX</li>
+                <li>Changing for Better</li>
+            </ul>
+        </div>
 <h2>&nbsp;</h2>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -115,48 +169,8 @@
               
             
 	  </div>
-      <div id="subrightarea" align="center">
-       
-<?
-if ($c_szShowSponsorshipLogos)
-{
-?>
-<div class="sponsorImage">
-	<a href="http://www.clifbar.com/">
-    	<img src="../images/sponsors/cliffbar_sponsor4.gif" alt="Clif Bar" style="width:30%"/>
-    </a>
-</div>
-
-<div class="sponsorImage">
-	<a href="http://www.roadid.com">
-		<img src="../images/sponsors/RoadID.jpg" width="220" height="174" alt="RoadID" longdesc=""/>
-    </a>
-</div>
-<div class="sponsorImage">
-	<a href="#">
-		<img src="../images/sponsors/need_a_hand.jpg" alt="Need A Hand Handyman Services"/>
-    </a>
-</div>
-<div class="sponsorImage">
-	<a href="#">
-		<img src="../images/sponsors/chicago_premier.jpg" alt="Chicago Premier DJ's"/>
-    </a>
-</div>
-
-<div class="sponsorImage">
-	<a href="#">
-		<img src="../images/sponsors/keller_williams.jpg" alt="Keller Williams"/>
-    </a>
-</div>
-<div class="sponsorText">Bangkok Oriental Grocery</div>
-<div class="sponsorText">Whateverland Photography</div>
-  <?
-}
-?>
-      </div>
-       
-<div id="footer">
-<?php include ("../footer.html") ?>
+      <div id="footer">
+  <?php include ("../footer.html") ?>
 </div>   
 			
   </div>
