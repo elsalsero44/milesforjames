@@ -495,11 +495,11 @@ color:#000000;
 }
 .sponsor-list li {
 	float:left;
-	width: 50%;
+	width: 33%;
 	margin-bottom:25px;
 }
 
-.sponsor-list li:nth-child(2n+1) {
+.sponsor-list li:nth-child(3n+1) {
 	clear:left;
 }
 

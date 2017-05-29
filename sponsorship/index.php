@@ -42,12 +42,13 @@
             <h2>Legacy</h2>
             <hr>
             <ul class="clear-both">
-	            <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.ultraevents.com/"><img class="large-logo" src="../images/sponsors/chicago_premier.jpg" alt="Chicago Premier"></a></li>
+	            <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.ultraevents.com/"><img class="large-logo" src="../images/sponsors/UltraEvents.gif" alt="Chicago Premier"></a></li>
             	<li class="v-large-logo"><a class="v-center v-center-link" href="http://inteqinsights.com/"><img class="large-logo" src="../images/sponsors/inteQ_CYAN_CMYK.jpg" alt="Inte Q"></a></li>
                 <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.cliffbar.com/"><img class="v-large-logo" src="../images/sponsors/cliffbar_color.jpg" alt="Cliff Bar"></a></li>
                 <li class="v-large-logo"><a class="v-center v-center-link" href="https://www.walgreens.com/"><img class="large-logo" src="../images/sponsors/walgreens.jpg" alt="Walgreens"></a></li>
                 <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.medprohealthproviders.com/"><img class="large-logo" src="../images/sponsors/Medpro.jpg" alt="Med Pro"></a></li>
                 <li class="v-large-logo"><a class="v-center v-center-link" href="https://www.linkedin.com/in/tommyreytorres"><img class="large-logo" src="../images/sponsors/TommyTorres.png" alt="Tommy Torres Design"></a></li>
+                <li class="v-large-logo"><a class="v-center v-center-link" href="http://www.suburbanoralsurgeons.com/our-doctors"><img class="large-logo" src="../images/sponsors/SubOral.gif" alt="Suburban Oral Surgery"></a></li>
                 <li class="v-large-logo"><a class="v-center v-center-link" href="https://sites.google.com/site/cosmopolitanunitedchurch/"><img class="large-logo" src="../images/sponsors/cosmo.jpg" alt="Cosmopolitan United Methodist Church"></a></li>
             </ul>
             <ul class="clear-both">
@@ -55,7 +56,7 @@
                 <li class="v-small-logo"><img class="v-center small-logo" src="../images/sponsors/need_a_hand.jpg" alt="Steve Handyman"></li>
             </ul>
             <ul>
-                <li>Bangkok Grocery</li>
+                <li>Bangkok Oriental Grocery</li>
                 <li>Running For Kicks</li>
                 <li>Cooper's Hawk</li>
                 <li>Walt's Food</li>

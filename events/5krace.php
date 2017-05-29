@@ -89,13 +89,9 @@
 if ($c_bShowPledgeChallenge)
 {        
 ?>
-        <h2>Accept our Pledge Challenge and be rewarded!</h2>
+       <h2>Accept our Pledge Challenge and be rewarded!</h2>
         <p>To help make the <?=$c_szRaceIdentifier?>
-         Annual MILES for JAMES 5K Run/Walk more successful than the past years, we are challenging you to raise pledges.  Pledge forms and money will be collected on race day only.</p>
-        <p>&nbsp;</p>
-        <p><strong>Participants with pledges of $250 or more will receive this special MILES for JAMES long sleeve shirt.</strong></p>
-        <p>&nbsp;</p>
-        <p><img src="../images/MFJ_LongSleeve_Incentive2012.jpg" alt="Woo, cool shirt!"></p>
+         Head for Safety 5K more successful than the past years, we are challenging you to raise pledges.  Pledge forms and money will be collected on race day only. Great prizes will be awarded to the top two fundraisers.</p>
         <p>&nbsp;</p>
         <p><a href="mfJPledgeSheet.pdf"><img src="../images/pledgebutton.gif" alt="Click here to download the MFJ Form" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
