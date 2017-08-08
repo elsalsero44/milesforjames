@@ -38,7 +38,7 @@
 ?>          
         <p>Registration is now open! It's easy, convenient and secure. All you need is a credit card and to answer a few questions.</p>
         <p>&nbsp;</p>
-        <p><a href="https://www.signmeup.com/<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
+        <p><a href="https://www.signmeup.com/site/reg/register.aspx?fid=<?=$c_szRaceId?>" target="_blank"><img src="../images/registrationbutton.gif" width="150" height="44" border="0"></a></p>
         <p>&nbsp;</p>
         <p class="deadline">Register by September<u> 10th</u> to guarantee your desired shirt size for this year’s race. On-Line Registration will close on the night before the race at 9:00pm.</p>
 <?
@@ -52,7 +52,7 @@
 ?>            
         <h2>General Information</h2>
         <p><strong>When:</strong> </p>
-        <p>Saturday, October 1, 2016</p>
+        <p>Saturday, September 30, 2017</p>
         <p>&nbsp;</p>
         <p><strong>Time:</strong> </p>
         <p>7:30 am Packet Pick up/ Same Day Registration Open<br>
