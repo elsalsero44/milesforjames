@@ -1,0 +1,8 @@
+{>"templates/modules/layouts/master"/}
+{<pageTitle}Testimonials{/pageTitle}
+
+{<content}
+{/content}
+
+{<rightContent}
+{/rightContent}
