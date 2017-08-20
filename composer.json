@@ -1,5 +1,5 @@
 {
     "require": {
-        "dust-php/dust-php": "0.1.0"
+        "dust-php/dust-php": "0.1.*"
     }
 }

@@ -1,5 +1,4 @@
 {>"templates/modules/layouts/master"/}
-{<pageTitle}James's Story{/pageTitle}
 
 {<content}
     {>"templates/modules/navlist/navlist"/}

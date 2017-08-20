@@ -1,6 +1,7 @@
 <div class="navlist d-none" data-js="navlist">
     <div class="navlist-overlay" data-js="navlist-overlay">
         <ul class="navlist-options" data-js="navlist-options">
+        <li class="py-2 pl-4">Home</li>
         <li class="py-2 pl-4">James's Story</li>
         <li class="py-2 pl-4">Testimonials</li>
         <li class="py-2 pl-4">Events</li>

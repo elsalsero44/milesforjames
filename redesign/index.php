@@ -1,7 +1,10 @@
 <?
     require_once '/home/dperea/milesforjames.com/vendor/autoload.php';
     
-    $context = json_encode('{}');
+    $context = [
+        'pageTitle' => 'Home',
+        'contentTitle' => ''
+    ];
     
     $dust = new \Dust\Dust();
     $template = $dust->compileFile('templates/pages/home.dust');

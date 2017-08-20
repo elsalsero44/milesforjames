@@ -7,12 +7,14 @@
                 <li></li>
             </ul>
         </div>
-        <picture>
-            <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Logo_1200px.png">
-            <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Logo_992px.png">
-            <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Logo_768px.png">
-            <img src="./images/layout/MFJ_Website_HP_Logo_576px.png" alt="Miles For James" class="img-fluid">
-        </picture>
+        <a href="./index.php" alt="Miles For James">
+            <picture>
+                <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Logo_1200px.png">
+                <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Logo_992px.png">
+                <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Logo_768px.png">
+                <img src="./images/layout/MFJ_Website_HP_Logo_576px.png" alt="Miles For James" class="img-fluid">
+            </picture>
+        </a>
     </div>
     <picture>
         <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Header_1200px.jpg">

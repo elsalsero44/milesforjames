@@ -1,5 +1,5 @@
 <div class="navbar">
-    <a href="./home.php"><img src="./images/nav/James_story.gif" alt="James' Story" width="153" height="18" border="0" /></a>
+    <a href="./story.php"><img src="./images/nav/James_story.gif" alt="James' Story" width="153" height="18" border="0" /></a>
     <a href="./testimonials.php"><img src="./images/nav/testimonial.gif" alt="Testimonials" width="152" height="18" border="0" /></a>
     <a href="./events.php"><img src="./images/nav/events.gif" alt="Events" width="96" height="18" border="0" /></a>
     <a href="./sponsorship.php"><img src="./images/nav/sponsorship.gif" alt="Sponsorship" width="150" height="18" border="0" /></a>
