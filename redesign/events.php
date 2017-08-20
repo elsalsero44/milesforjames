@@ -1,6 +1,7 @@
 <?
     require_once '/home/dperea/milesforjames.com/vendor/autoload.php';
-    
+    include ("php/constants.php");
+
     $context = [
         'pageTitle' => 'Events',
         'contentTitle' => 'Join Us...'

@@ -1,7 +1,87 @@
 {>"templates/modules/layouts/master"/}
-{<pageTitle}Testimonials{/pageTitle}
 
 {<content}
+    {?mailResponse}
+        <p class="text-center my-3"><strong>{mailResponse}</strong></p>
+    {/mailResponse}
+
+    <h2>General Inquiry</h2>
+    <p class="mb-3">
+        For questions regarding the upcoming events or any general information, email us at <a href="mailto:info@milesforjames.com">info@milesforjames.com</a> or you can write to:
+    </p>
+    <p class="mb-3">
+    Miles For James, Inc.<br>
+    PO Box 6504<br>
+    Aurora, IL 60598
+    </p>
+    <h2>Sponsorship Opportunities and Donations inquiry</h2>
+    <p class="mb-3">
+        For questions regarding donations or sponsorship email <a href="mailto:donations@milesforjames.com">donations@milesforjames.com</a>.
+    </p>
+    <h2>Sales</h2>
+    <p class="mb-3">
+        For questions regarding Miles for James merchandise, email <a href="mailto:sales@milesforjames.com">sales@milesforjames.com</a>.
+    </p>
+    <h2>Miles For James Volunteers</h2>
+    <p class="mb-3">
+        Would you like to have some fun, meet new friends and help out a good cause? If so, consider volunteering some of your time to help out with the planning and/or execution of one of our events by filling out the form below.
+    </p>
+    <form class="my-3" name="contactUs" method="POST" action="./contactus.php">
+        <table width="100%" border="0">
+            <tr>
+                <td>Name:</td>
+                <td>
+                    <input name="name" type="text" id="name" size="50">
+                </td>
+            </tr>
+            <tr>
+                <td>Email:</td>
+                <td>
+                    <input name="email" type="text" id="email" size="50">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Phone 1 (Optional):
+                </td>
+                <td>
+                    (
+                        <input name="phone1_areacode" type="text" id="phone1_areacode" size="3" maxlength="3">
+                    )-
+                        <input name="phone1_prefix" type="text" id="phone1_prefix" size="3" maxlength="3"> 
+                    - 
+                        <input name="phone1_postfix" type="text" id="phone1_postfix" size="4" maxlength="4">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Phone 2 (Optional):
+                </td>
+                <td>
+                    (
+                        <input name="phone2_areacode" type="text" id="phone2_areacode" size="3" maxlength="3">
+                    )-
+                        <input name="phone2_prefix" type="text" id="name7" size="3" maxlength="3">
+                    -
+                        <input name="phone2_postfix" type="text" id="name8" size="4" maxlength="4">
+                </td>
+            </tr>
+                <td>
+                    Notes (Optional):
+                </td>
+                <td>
+                    <textarea name="notes" id="notes" cols="50" rows="5"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <div align="center">
+                        <input type="submit" name="submit" id="submit" value="Send">
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </form>
 {/content}
 
 {<rightContent}
