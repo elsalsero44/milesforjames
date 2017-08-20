@@ -1,13 +1,4 @@
 /* START new styles */
-body.new {
-	font-family: Verdana, Arial, Helvetica, sans-serif;	
-	color: #000000;
-	background: white;
-}
-
-.content {
-	font-size: .75rem;
-}
 
 .header-nav {
 	position: relative;
@@ -17,107 +8,9 @@ body.new {
 	width: 100%;
 }
 
-h1 {
-	font-size: 1.5rem;
-	color: #143999;
-	font-weight:500;
-}
-
-h2 {
-	font-size: .75rem;
-	color: #ff9200;
-	font-style: bold;
-	font-weight:500;
-}
-
-.legal {
-	font-size: .6rem;
-	font-weight: bold;
-}
-
-.side-content {
-	font-size: 0.8rem;
-}
-
 .race-results ul {
 	list-style: none;
 	padding: 0;
-}
-
-.navlist-button {
-	position: absolute;
-	top: 40%;
-	cursor: pointer;
-}
-
-.navlist-button ul {
-	list-style: none;
-	padding: 0;
-}
-
-.navlist-button li {
-	width: 22px;
-	height: 4px;
-	margin-bottom: 2px;
-	background: #143999;
-	border-radius: 2px;
-}
-
-@media (min-width: 576px) {
-	.navlist-button li {
-		width: 30px;
-		height: 5px;
-		margin-bottom: 4px;
-	}
-}
-
-@media (min-width: 768px) {
-	.navlist-button li {
-		width: 40px;
-		height: 7px;
-		margin-bottom: 5px;
-	}
-}
-
-
-
-.navlist {
-	width: 100%;
-	height: 100%;
-	z-index: 999;
-	position: fixed;
-	top: 0;
-	left: 0;
-}
-
-.navlist .navlist-overlay {
-	width: 100%;
-	height: 100%;
-	background-color: rgba(0,0,0,0);
-}
-
-.navlist .navlist-options {
-	position: relative;
-	left: -70%;
-	height: 100%;
-}
-
-.navlist ul {
-	color: white;
-	list-style: none;
-	background: #143999;
-	width: 70%;
-	height: 100%;
-	padding: 0;
-}
-
-.navlist ul li { 
-	border-top: 1px solid #0091f7;
-	cursor: pointer;
-}
-
-.navlist ul li:last-child { 
-	border-bottom: 1px solid #0091f7;
 }
 
 .mfjLogo {
