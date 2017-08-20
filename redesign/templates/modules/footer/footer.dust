@@ -1,4 +1,4 @@
-<div class="footer">
+<div class="footer mt-5">
     <picture>
         <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Footer_1200px.jpg">
         <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Footer_992px.jpg">

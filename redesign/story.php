@@ -3,7 +3,7 @@
     
     $context = json_decode('{
         "pageTitle": "James\'s Story",
-        "contentTitle": "James\'s Story"
+        "contentTitle": "The Right Time: James\'s Story"
     }');
         
     $dust = new \Dust\Dust();

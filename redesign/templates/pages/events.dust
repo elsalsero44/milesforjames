@@ -1,8 +1,17 @@
 {>"templates/modules/layouts/master"/}
-{<pageTitle}Testimonials{/pageTitle}
 
 {<content}
+    <h2><?=$c_szRaceIdentifier?> Head For Safety 5K</h2>
+    <p>
+        The <?=$c_szRaceIdentifier?> Head For Safety 5K, formerly known as the MILES for JAMES 5K, will be held to help spread awareness about Traumatic Brain Injuries (TBI), raise funds for TBI research, TBI victims, and medical costs for James Javier.
+    </p>
+    <p class="mt-3">
+        <strong><a href="./race.php">LEARN MORE &gt;</a></strong>
+    </p>
 {/content}
 
 {<rightContent}
+    <a href="./race.php">
+        <img class="img-fluid" src="./images/banners/banners-220x200.png" alt="Head For Safety 5K" border="0">
+    </a>
 {/rightContent}

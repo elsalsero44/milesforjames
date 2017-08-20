@@ -2,12 +2,12 @@
     require_once '/home/dperea/milesforjames.com/vendor/autoload.php';
     
     $context = [
-        'pageTitle' => 'Testimonials',
-        'contentTitle' => 'We heart James!'
+        'pageTitle' => 'Events',
+        'contentTitle' => 'Join Us...'
     ];
     
     $dust = new \Dust\Dust();
-    $template = $dust->compileFile('templates/pages/testimonials.dust');
+    $template = $dust->compileFile('templates/pages/events.dust');
     $output = $dust->renderTemplate($template, $context);
     
     echo($output);
