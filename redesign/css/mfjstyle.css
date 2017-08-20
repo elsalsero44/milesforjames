@@ -113,6 +113,7 @@ h2 {
 
 .navlist ul li { 
 	border-top: 1px solid #0091f7;
+	cursor: pointer;
 }
 
 .navlist ul li:last-child { 

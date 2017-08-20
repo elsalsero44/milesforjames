@@ -44,5 +44,9 @@ $(function() {
         e.preventDefault();
         e.stopImmediatePropagation();
     });
+
+    $('[data-js="navlist-options"]').on('click', 'li', function(e) {
+        window.location.href = $(e.target).attr('data-id');
+    })
 });
 
