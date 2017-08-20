@@ -21,4 +21,8 @@
 {/content}
 
 {<rightContent}
+    <div class="image-list text-center">
+        <img class="mb-3" src="./images/james/james1.jpg" alt="James Javier" border="0">
+        <img class="mb-3" src="./images/james/james2.jpg" alt="James Javier" border="0">
+    </div>
 {/rightContent}

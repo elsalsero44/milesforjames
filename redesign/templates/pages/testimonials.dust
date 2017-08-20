@@ -32,4 +32,7 @@
 {/content}
 
 {<rightContent}
+    <div class="image-list text-center">
+        <img class="mb-3" src="./images/james/james3.jpg" alt="James Javier" border="0">
+    </div>
 {/rightContent}

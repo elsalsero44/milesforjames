@@ -85,4 +85,7 @@
 {/content}
 
 {<rightContent}
+    <div class="side-content">
+        <img class="img-fluid" src="./images/banners/banners-220x200.png" alt="Head For Safety 5K" border="0">
+    </div>
 {/rightContent}
