@@ -4,7 +4,13 @@
     
     $context = [
         'pageTitle' => 'Home',
-        'contentTitle' => ''
+        'contentTitle' => '',
+        'raceResult' => [
+            'name' => '2016 Head For Safety 5K',
+            'date' => 'October 1, 2016',
+            'ageLink' => 'http://www.racetime.info/wp-content/uploads/2016/10/MFJ-Head-For-Safety-5K-Age-Group-Results.htm',
+            'overallLink' => 'http://www.racetime.info/wp-content/uploads/2016/10/MFJ-Head-for-Safety-5K-Overall-Results.htm'
+        ]
     ];
     
     $dust = new \Dust\Dust();

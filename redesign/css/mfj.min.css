@@ -18,6 +18,9 @@ body.new {
     font-weight: bold; }
   body.new .side-content {
     font-size: 0.8rem; }
+  body.new ul {
+    list-style: none;
+    padding: 0; }
 
 .navlist {
   width: 100%;

@@ -1,0 +1,12 @@
+<div class="race-result mb-3">
+    <h2>{m.name}</h2>
+    <div><em>{m.date}</em></div>
+    <ul class="mt-3">
+        <li>
+            <strong>Race results:</strong> <a href="{m.ageLink}">Gender/Age Group</a>
+        </li>
+        <li>
+            <strong>Race results:</strong> <a href="{m.overallLink}">Overall</a>
+        </li>
+    </ul>
+</div>
