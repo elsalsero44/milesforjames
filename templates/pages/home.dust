@@ -1,0 +1,50 @@
+{>"templates/modules/layouts/master"/}
+{<pageTitle}James's Story{/pageTitle}
+
+{<content}
+    {>"templates/modules/navlist/navlist"/}
+    <div class="content">
+    <p><strong>MILES for JAMES </strong> started off as a Facebook group established to serve as a support network for anyone looking to get healthy, stay motivated, but more importantly, to be connect with James' friends and family. From there, MILES for JAMES grew into an organization that has a three-fold
+        purpose: to raise financial support for the Javier family who are the primary
+        caregivers for James, to raise public awareness concerning TBI, and to contribute
+        funding to institutions associated with the care, treatment, and research of TBI. </p>
+              <p>&nbsp;</p>
+                <p> James, for whom the group is named, suffered a traumatic brain injury as a result of being struck by a car while jogging on September 19, 2009. Since that day, James has courageously fought his way from an
+                  unconscious-comatose-state to his present minimally-functioning-conscious-state.
+                  During his recovery process, James has been at numerous medical care facilities, including:  Christ Medical Center in Oak Lawn, RML Specialty Hospital in Hinsdale, Rehabilitation Institute of Chicago, Manor Care in Naperville, and Northwestern Memorial Hospital in Chicago. James is currently being cared for at home where he receives the various therapy
+                  regimens necessary to his continued recovery. </p>
+                <p><br>
+                  James has always been a giver.  While he openly denied and secretly loved the spotlight, his love of it was not self-serving.  For James, it was his special way of bringing laughter and joy into the lives of others.  In any of James&rsquo;s pursuits, be it writing, performing, teaching, or training, James approached every endeavor with a superhero-like confidence.  Since the accident, James has also showed us his superhero-like strength and
+                  courage. Although there have been numerous challenges to his recovery process, he
+                  has persevered and continues to be an inspiration to those bearing witness to his
+                  miraculous journey. Like the "Man of Steel," James dedicated his life to encouraging
+                  others to find their own super-hero strength &ndash; what better way than to be a role
+                  model to others? True to James, he is not only fighting for himself but for the many
+                  people who are waiting for him.</p>
+                <p><br>
+                  Your support through prayer, donations, or goodwill strengthens and uplifts his family and friends who are in this fight with him.  Monetary donations can be made <a href="donations/index.php" target="_blank">here</a>. </p>
+                <p>&nbsp;</p>
+                <p>To provide motivational support to James and his family, visit the <a href="http://www.facebook.com/groups/MilesForJames" target="_blank">Miles for James Facebook Page</a>.</p>
+                <div class="legal mt-3">Partial proceeds collected will be donated to organizations that specialize in the care, treatment, and research associated with traumatic brain injuries.</div>
+            </div>
+{/content}
+
+{<rightContent}
+    <div class="side-content">
+        <div class="race-results mb-3">
+            <h2>2016 Head For Safety 5K</h2>
+            <div>October 1, 2016</div>
+            <ul class="mt-3">
+            <li>
+                <strong>Race results:</strong> <a href="http://www.racetime.info/wp-content/uploads/2016/10/MFJ-Head-For-Safety-5K-Age-Group-Results.htm">Gender/Age Group</a>
+            </li>
+            <li>
+                <strong>Race results:</strong> <a href="http://www.racetime.info/wp-content/uploads/2016/10/MFJ-Head-for-Safety-5K-Overall-Results.htm">Overall</a>
+            </li>
+            </ul>
+        </div>
+        <a href="events/5krace.php">
+            <img class="img-fluid" src="./images/banners/banners-220x200.png" alt="Head For Safety 5K" border="0">
+        </a>
+    </div>
+{/rightContent}

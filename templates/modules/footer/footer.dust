@@ -1,0 +1,8 @@
+<div class="footer">
+    <picture>
+        <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Footer_1200px.jpg">
+        <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Footer_992px.jpg">
+        <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Footer_768px.jpg">
+        <img src="./images/layout/MFJ_Website_HP_Footer_576px.jpg" alt="Miles For James" class="img-fluid">
+    </picture>
+</div>

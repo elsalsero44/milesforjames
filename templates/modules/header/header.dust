@@ -1,0 +1,23 @@
+<div class="header">
+    <div class="header-nav">
+        <div data-js="navlist-button" class="navlist-button d-block d-lg-none">
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+        <picture>
+            <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Logo_1200px.png">
+            <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Logo_992px.png">
+            <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Logo_768px.png">
+            <img src="./images/layout/MFJ_Website_HP_Logo_576px.png" alt="Miles For James" class="img-fluid">
+        </picture>
+    </div>
+    <picture>
+        <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Header_1200px.jpg">
+        <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Header_992px.jpg">
+        <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Header_768px.jpg">
+        <img src="./images/layout/MFJ_Website_HP_Header_576px.jpg" alt="Miles For James" class="img-fluid">
+    </picture>
+</div>

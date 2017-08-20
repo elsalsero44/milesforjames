@@ -1,0 +1,8 @@
+<div class="navbar">
+    <a href="./james_story/index.php"><img src="./images/nav/James_story.gif" alt="James' Story" width="153" height="18" border="0" /></a>
+    <a href="./testimonials/index.php"><img src="./images/nav/testimonial.gif" alt="Testimonials" width="152" height="18" border="0" /></a>
+    <a href="./events/index.php"><img src="./images/nav/events.gif" alt="Events" width="96" height="18" border="0" /></a>
+    <a href="./sponsorship/index.php"><img src="./images/nav/sponsorship.gif" alt="Sponsorship" width="150" height="18" border="0" /></a>
+    <a href="./donations/index.php"><img src="./images/nav/donations.gif" alt="Donations" width="128" height="18" border="0" /></a>
+    <a href="./contactus/index.php"><img src="./images/nav/contact.gif" alt="Contact Us" width="124" height="18" border="0" /></a>
+</div>
