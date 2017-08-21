@@ -20,6 +20,12 @@ body.new {
         font-weight:500;
     }
     
+    h3 {
+        font-size: .80rem;
+        color: #ffffff;
+        font-style: bold;
+    }
+    
     .legal {
         font-size: .6rem;
         font-weight: bold;
@@ -32,5 +38,35 @@ body.new {
     ul {
         list-style: none;
         padding: 0;
+    }
+
+    .header-nav {
+        position: relative;
+    }
+    
+    .header .logo {
+        width: 100%;
+    }
+    
+    .image-list img {
+        vertical-align: top;
+    }
+    
+    p {
+        margin:0;padding:0px;
+    }
+    
+    acronym {
+        border:none;
+    }
+    
+    a {
+        color:#0783bd;
+        text-decoration: none;
+
+        :hover {
+            color:#999999;
+            background-color:#ffffff;
+        }
     }
 }
