@@ -1,7 +1,6 @@
 {>"templates/modules/layouts/master"/}
 
 {<content}
-    {>"templates/modules/navlist/navlist"/}
     <p><strong>MILES for JAMES </strong> started off as a Facebook group established to serve as a support network for anyone looking to get healthy, stay motivated, but more importantly, to be connect with James' friends and family. From there, MILES for JAMES grew into an organization that has a three-fold
         purpose: to raise financial support for the Javier family who are the primary
         caregivers for James, to raise public awareness concerning TBI, and to contribute
