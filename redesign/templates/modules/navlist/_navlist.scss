@@ -21,11 +21,10 @@
 
     ul {
         color: white;
-        list-style: none;
         background: #143999;
         width: 70%;
         height: 100%;
-        padding: 0;
+        font-size: 1.2rem;
 
         li { 
             border-top: 1px solid #0091f7;
@@ -44,6 +43,7 @@
 	position: absolute;
 	top: 40%;
     cursor: pointer;
+    padding: 0 25px 25px 0;   /* give some extra padding to improve the hit area */
     
     ul {
         list-style: none;

@@ -1,13 +1,13 @@
 <div class="navlist d-none" data-js="navlist">
     <div class="navlist-overlay" data-js="navlist-overlay">
         <ul class="navlist-options" data-js="navlist-options">
-            <li class="py-2 pl-4" data-id="./index.php">Home</li>
-            <li class="py-2 pl-4" data-id="./story.php">James's Story</li>
-            <li class="py-2 pl-4" data-id="./testimonials.php">Testimonials</li>
-            <li class="py-2 pl-4" data-id="./events.php">Events</li>
-            <li class="py-2 pl-4" data-id="./sponsorship.php">Sponsorship</li>
-            <li class="py-2 pl-4" data-id="./donations.php">Donations</li>
-            <li class="py-2 pl-4" data-id="./contactus.php">Contact Us</li>
+            <li class="py-3 pl-4" data-id="./index.php">Home</li>
+            <li class="py-3 pl-4" data-id="./story.php">James's Story</li>
+            <li class="py-3 pl-4" data-id="./testimonials.php">Testimonials</li>
+            <li class="py-3 pl-4" data-id="./events.php">Events</li>
+            <li class="py-3 pl-4" data-id="./sponsorship.php">Sponsorship</li>
+            <li class="py-3 pl-4" data-id="./donations.php">Donations</li>
+            <li class="py-3 pl-4" data-id="./contactus.php">Contact Us</li>
         </ul>
     </div>
 </div>
