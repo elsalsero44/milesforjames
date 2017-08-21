@@ -19,42 +19,42 @@
             [
                 'name' => '2015 Miles For James 5K',
                 'date' => 'September 19, 2015',
-                'ageLink' => '',
-                'overallLink' => ''
+                'ageLink' => 'http://racetime.info/wp-content/uploads/2015/09/Miles-For-James-5K-Age-Group-Results.htm',
+                'overallLink' => 'http://racetime.info/wp-content/uploads/2015/09/Miles-For-James-5K-Overall-Results.htm"'
             ],
             [
                 'name' => '2014 Miles For James 5K',
                 'date' => 'September 27, 2014',
-                'ageLink' => '',
-                'overallLink' => ''
+                'ageLink' => 'http://racetime.info/wp-content/uploads/2014/09/Miles-For-James-5K-Age-Group-Results.htm',
+                'overallLink' => 'http://racetime.info/wp-content/uploads/2014/09/Miles-For-James-5K-Overall-Results.htm'
             ],
             [
                 'name' => '2013 Miles For James 5K',
                 'date' => 'September 21, 2013',
-                'ageLink' => '',
-                'overallLink' => ''
+                'ageLink' => 'http://www.racetime.info/wp-content/uploads/2013/09/MILES-FOR-JAMES-5K-AGE-GROUP-RESULTS.htm',
+                'overallLink' => 'http://www.racetime.info/wp-content/uploads/2013/09/MILES-FOR-JAMES-5K-OVERALL-RESULTS.htm'
             ],
             [
                 'name' => '2012 Miles For James 5K',
                 'date' => 'September 22, 2012',
-                'ageLink' => '',
-                'overallLink' => ''
+                'ageLink' => './documents/results/2012/MILES-FOR-JAMES-5K-AGE-GROUP-RESULTS.htm',
+                'overallLink' => './documents/results/2012/MILES-FOR-JAMES-5K-OVERALL-RESULTS.htm'
             ],
             [
                 'name' => '2011 Miles For James 5K',
                 'date' => 'September 10, 2011',
-                'ageLink' => '',
-                'overallLink' => ''
+                'ageLink' => './documents/results/2011/MFJ_AgeGroupResults.HTM',
+                'overallLink' => './documents/results/2011/MFJ_OverallFinishlist.HTM'
             ],
             [
                 'name' => '2010 Miles For James 5K',
                 'date' => 'August 14, 2010',
-                'ageLink' => '',
-                'overallLink' => ''
+                'ageLink' => './documents/results/2010/MILES_FOR_JAMESR.webarchive',
+                'overallLink' => './documents/results/2010/MILES_FOR_JAMESO-1.webarchive'
             ]
         ]
     ];
-    
+
     $dust = new \Dust\Dust();
     $template = $dust->compileFile('templates/pages/race.dust');
     $output = $dust->renderTemplate($template, $context);
