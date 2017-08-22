@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <title>Miles For James - {pageTitle}</title>
+        <meta name="description" content="Spreading awareness about traumatic brain injury." />
         <meta property="og:title" content="Miles For James" />
         <meta property="og:type" content="website" />
         <meta property="og:description" content="Spreading awareness about traumatic brain injury." />
