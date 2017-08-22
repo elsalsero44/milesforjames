@@ -2,10 +2,11 @@
 <html lang="en">
     <head>
         <title>Miles For James - {pageTitle}</title>
-        <meta name="description" content="Spreading awareness about traumatic brain injury." />
         <meta property="og:title" content="Miles For James" />
+        <meta property="og:type" content="website" />
         <meta property="og:description" content="Spreading awareness about traumatic brain injury." />
-        <meta property="og:image" content="./images/james/j-logo.png" />
+        <meta property="og:image" content="http://www.milesforjames.com/images/social/fb-opengraph.jpg" />
+        <meta property="og:url" content="http://www.milesforjames.com/index.php" />
         <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
 
         <meta charset="UTF-8" />
