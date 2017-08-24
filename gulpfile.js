@@ -5,10 +5,10 @@ var cssnano = require('gulp-cssnano');
 var concat = require('gulp-concat');
 var fs = require('fs-extra');
 var runSequence = require('run-sequence');
-var SOURCE_CSS = 'redesign/templates/**/*.scss';
-var TARGET_CSS = 'redesign/css';
-var SOURCE_JS = 'redesign/templates/**/*.js';
-var TARGET_JS = 'redesign/js';
+var SOURCE_CSS = 'templates/**/*.scss';
+var TARGET_CSS = 'css';
+var SOURCE_JS = 'templates/**/*.js';
+var TARGET_JS = 'js';
 
 gulp.task('build', function(callback){
     runSequence('build-css', 'build-js', callback);

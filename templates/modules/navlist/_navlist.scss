@@ -24,11 +24,18 @@
         background: #143999;
         width: 70%;
         height: 100%;
+        font-family: 'Raleway', sans-serif;
         font-size: 1.2rem;
 
         li { 
             border-top: 1px solid #0091f7;
             cursor: pointer;
+
+            &:hover, &:active {
+                color: #000000;
+                background: #f0c200;
+                border-radius: 4px;
+            }
 
             :last-child { 
                 border-bottom: 1px solid #0091f7;
