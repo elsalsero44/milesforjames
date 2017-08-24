@@ -111,6 +111,7 @@ body.new {
     padding: 10px; }
     .navbar a:hover, .navbar a:active {
       text-decoration: none;
+      color: #000000;
       background: #f0c200;
       border-radius: 4px; }
 
