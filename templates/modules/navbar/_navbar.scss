@@ -1,0 +1,18 @@
+.navbar {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 1rem;
+    padding: 0;
+    
+    a {
+        text-decoration: none;
+        color: #0783bd;
+        padding: 10px;
+
+        &:hover, &:active {
+            text-decoration: none;
+            color: #000000;
+            background: #f0c200;
+            border-radius: 4px;
+        }
+    }
+}

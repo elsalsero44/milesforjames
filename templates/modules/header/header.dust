@@ -16,10 +16,5 @@
             </picture>
         </a>
     </div>
-    <picture>
-        <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Header_1200px.jpg">
-        <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Header_992px.jpg">
-        <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Header_768px.jpg">
-        <img src="./images/layout/MFJ_Website_HP_Header_576px.jpg" alt="Miles For James" class="img-fluid">
-    </picture>
+    {+header /}
 </div>

@@ -1,5 +1,14 @@
 {>"templates/modules/layouts/master"/}
 
+{<header}
+    <picture>
+        <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_Header2_1200px.jpg">
+        <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_Header2_992px.jpg">
+        <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_Header2_768px.jpg">
+        <img src="./images/layout/MFJ_Website_Header2_576px.jpg" alt="Miles For James" class="img-fluid">
+    </picture>
+{/header}
+
 {<content}
     {?mailResponse}
         <p class="text-center my-3"><strong>{mailResponse}</strong></p>

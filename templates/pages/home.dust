@@ -1,5 +1,14 @@
 {>"templates/modules/layouts/master"/}
 
+{<header}
+    <picture>
+        <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_HP_Header_1200px.jpg">
+        <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_HP_Header_992px.jpg">
+        <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_HP_Header_768px.jpg">
+        <img src="./images/layout/MFJ_Website_HP_Header_576px.jpg" alt="Miles For James" class="img-fluid">
+    </picture>
+{/header}
+
 {<content}
     <p><strong>MILES for JAMES </strong> started off as a Facebook group established to serve as a support network for anyone looking to get healthy, stay motivated, but more importantly, to be connect with James' friends and family. From there, MILES for JAMES grew into an organization that has a three-fold
         purpose: to raise financial support for the Javier family who are the primary

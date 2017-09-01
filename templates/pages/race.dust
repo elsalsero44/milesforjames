@@ -1,5 +1,14 @@
 {>"templates/modules/layouts/master"/}
 
+{<header}
+    <picture>
+        <source media="(min-width: 1200px)" srcset="./images/layout/MFJ_Website_Header4_1200px.jpg">
+        <source media="(min-width: 992px)" srcset="./images/layout/MFJ_Website_Header4_992px.jpg">
+        <source media="(min-width: 768px)" srcset="./images/layout/MFJ_Website_Header4_768px.jpg">
+        <img src="./images/layout/MFJ_Website_Header4_576px.jpg" alt="Miles For James" class="img-fluid">
+    </picture>
+{/header}
+
 {<content}
     <h2 class="mb-3">Registration</h2>
     {?registrationOpen}
@@ -80,7 +89,7 @@
             To help make the {raceYear} Head for Safety 5K more successful than the past years, we are challenging you to raise pledges.  Pledge forms and money will be collected on race day only. Great prizes will be awarded to the top two fundraisers.
         </p>
         <p class="mb-3">
-            <a href="./documents/mfJPledgeSheet.pdf">
+            <a href="./documents/mfjPledgeSheet.pdf">
                 <img src="./images/race/pledgebutton.gif" alt="Click here to download the MFJ Form" width="150" height="44" border="0">
             </a>
         </p>
