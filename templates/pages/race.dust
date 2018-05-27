@@ -16,10 +16,10 @@
             Registration is now open! It's easy, convenient and secure. All you need is a credit card and to answer a few questions.
         </p>
         <p class="mb-3">
-            <a href="https://www.signmeup.com/site/reg/register.aspx?fid={raceId}" target="_blank"><img src="./images/race/registrationbutton.gif" width="150" height="44" border="0"></a>
+            <a href=" https://raceroster.com/events/2018/17980/head-for-safety-5k-runwalk" target="_blank"><img src="./images/race/registrationbutton.gif" width="150" height="44" border="0"></a>
         </p>
         <p class="deadline mb-3">
-            Register by <u>September 10th</u> to guarantee your desired shirt size for this year's race. On-Line Registration will close on the night before the race at 9:00pm.
+            Register by <u>September 8th</u> to guarantee your desired shirt size for this year's race. On-Line Registration will close on the night before the race at 9:00pm.
         </p>
     {:else}
 	    <p class="mb-3">
@@ -30,7 +30,7 @@
     <h2>General Information</h2>
     <p><strong>When:</strong></p>
     <p class="mb-3">
-        Saturday, September 30, 2017
+        Saturday, September 22, 2018
     </p>
     <p>
         <strong>Time:</strong>
@@ -45,29 +45,24 @@
     <p>
         <strong>Place:</strong>
     </p>
-    <p>
-        Family Harvest Church
-    </p>
     <p class="mb-3">
-        18500 92nd Ave, Tinley Park, IL 60487<br>
+        <a href="https://www.google.com/maps/search/?api=1&query=10401%20West%20153rd%20St.%20Orland%20Park,%20IL%2060462">
+            153rd Metra Station – Centennial Park<br>
+            10401 West 153rd Street<br>
+            Orland Park, IL  60462<br>
+        </a>
     </p>
     <p>
-        <strong>Price (prior to race day):</strong>
+        <strong>Price</strong>
     </p>
-    <p>$25 / individual</p>
-    <p>$80 / family of four (must have same last name)</p>
+    <p>$30 / individual</p>
     <p>$10 / child for 100 Yard Kid's Dash (10 years and under)</p>
-    <p class="mb-3">
-        <b>Team Registration: </b>$20 / team member (must have a team of 7 or more individuals) Download team form <a href="./documents/mfjTeamForm.pdf">here.</a>
-    </p>
-    <p class="mb-3">
-        **Day-of-Registration will be available for $30/individual, $100/family of 4, or $25/team member.
-    </p>
+    <p class="mb-3">Team Registration: $25 / team member (minimum 4 members)</p>
     <p>
         <strong>Route: </strong>
     </p>
     <p class="mb-3">
-        Click <strong><a href="./images/race/5k-route.png" target="_blank">here</a></strong> to view our <strong>certifiied</strong> route.  USATF Certification Number: IL-13034-JW
+        Click <strong><a href="./images/race/5k-route.jpg" target="_blank">here</a></strong> to view our new race route.
     </p>
     <p>
         <strong>Packet Pickup: </strong>
@@ -84,41 +79,17 @@
         Age groups: 14 and under, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55 and over.
     </p>
     {?showPledgeChallenge}
-        <h2>Accept our Pledge Challenge and be rewarded!</h2>
+        <h2>**NEW** Online Pledging!</h2>
         <p class="mb-3">
-            To help make the {raceYear} Head for Safety 5K more successful than the past years, we are challenging you to raise pledges.  Pledge forms and money will be collected on race day only. Great prizes will be awarded to the top two fundraisers.
-        </p>
-        <p class="mb-3">
-            <a href="./documents/mfjPledgeSheet.pdf">
-                <img src="./images/race/pledgebutton.gif" alt="Click here to download the MFJ Form" width="150" height="44" border="0">
-            </a>
+            We are now offering online pledging for individuals and teams. Once you register for the race, you can set up your own personal pledge page and/or your team pledge page.  
+Just send the link to your family and friends and they can support you and MILES for JAMES by pledging online.
         </p>
     {/showPledgeChallenge}
-    <h2>Transportation and Parking</h2>
+    <h2>Race Location and Parking</h2>
     <p class="mb-3">
-        <strong>Directions from I-80 &amp; LaGrange Rd (Rt 45)</strong><br>
-        Exit LaGrange Rd/96th Ave and head North to 183th St. <br>
-        Turn RIGHT on 183rd St. and head East to 92nd Ave.<br>
-        Turn RIGHT on 92nd Ave. <br>
-        92nd &nbsp;Ave. takes you right into church parking lot.
+        Centennial park is a large park and has multiple entrances.  The Head for Safety 5K race site, parking, and start will be at the Centennial Park - 153rd Street Metra Station.  The entrance is off of 153rd St., West of West Ave. and East of 108th Ave. (just past the railroad tracks).
     </p>
-    <p class="mb-3">
-        <strong>Directions from I-80 Harlem Ave (Rt 43)</strong><strong><br>
-        </strong>Exit Harlem Ave North and head North to 183rd St. <br>
-        Turn LEFT on 183rd St. and head West to 92nd Ave.<br>
-        Turn LEFT on 92nd Ave. <br>
-        92nd &nbsp;Ave. takes you right into church parking lot.
-    </p>
-    <p class="mb-3">
-        <strong>Directions from I-55 &amp; LaGrange Rd (Rt 45)</strong><br>
-        Exit LaGrange Rd/96th Ave South and head South to 183rd St.<br>
-        Turn LEFT on 183rd St. and head East to 92nd Ave.<br>
-        Turn RIGHT on 92nd Ave. <br>
-        92nd &nbsp;Ave. takes you right into church parking lot.
-    </p>
-    <p class="mb-3">
-        <strong>Parking will be available in the church parking lot.</strong>
-    </p>
+    <p class="mb-3"><strong>Parking will be available in the Orland Park - 153rd. Station Parking lot.</strong></p>
     <h2>Questions?</h2>
     <p>
         For any questions about the Head For Safety 5K, please email <a href="mailto:info@milesforjames.com">info@milesforjames.com</a>
