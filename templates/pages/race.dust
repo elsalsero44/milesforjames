@@ -46,7 +46,7 @@
         <strong>Place:</strong>
     </p>
     <p class="mb-3">
-        <a href="https://www.google.com/maps/search/?api=1&query=10401%20West%20153rd%20St.%20Orland%20Park,%20IL%2060462">
+        <a href="https://www.google.com/maps/search/?api=1&query=10401%20West%20153rd%20St.%20Orland%20Park,%20IL%2060462" target="_blank">
             153rd Metra Station – Centennial Park<br>
             10401 West 153rd Street<br>
             Orland Park, IL  60462<br>
@@ -56,8 +56,8 @@
         <strong>Price</strong>
     </p>
     <p>$30 / individual</p>
+    <p>$25 / team member for team registration (minimum 4 members)</p>
     <p>$10 / child for 100 Yard Kid's Dash (10 years and under)</p>
-    <p class="mb-3">Team Registration: $25 / team member (minimum 4 members)</p>
     <p>
         <strong>Route: </strong>
     </p>
@@ -75,7 +75,7 @@
     </p>
     <p class="mb-3">
         <strong>Awards: </strong><br>
-        Prizes will be awarded to the top overall male and female finisher. Medals to the top 3 male and female finishers in each age group. Medals to all participants in the 100 yd kid dash. Additional prizes to the top 3 fundraisers.<br>
+        Prizes will be awarded to the top overall male and female finisher. Medals to the top 3 male and female finishers in each age group.<br>
         Age groups: 14 and under, 15-19, 20-24, 25-29, 30-34, 35-39, 40-44, 45-49, 50-54, 55 and over.
     </p>
     {?showPledgeChallenge}
@@ -87,7 +87,7 @@ Just send the link to your family and friends and they can support you and MILES
     {/showPledgeChallenge}
     <h2>Race Location and Parking</h2>
     <p class="mb-3">
-        Centennial park is a large park and has multiple entrances.  The Head for Safety 5K race site, parking, and start will be at the Centennial Park - 153rd Street Metra Station.  The entrance is off of 153rd St., West of West Ave. and East of 108th Ave. (just past the railroad tracks).
+        Centennial park is a large park and has multiple entrances.  The Head for Safety 5K race site and start will be at the 153rd Street Metra Station at Centennial Park - Centennial Park.  The entrance is off of 153rd St., West of West Ave. and East of 108th Ave. (just past the railroad tracks).
     </p>
     <p class="mb-3"><strong>Parking will be available in the Orland Park - 153rd. Station Parking lot.</strong></p>
     <h2>Questions?</h2>

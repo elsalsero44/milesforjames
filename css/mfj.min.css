@@ -9,10 +9,9 @@ body.new {
     color: #143999;
     font-weight: 500; }
   body.new h2 {
-    font-size: .75rem;
+    font-size: 0.90rem;
     color: #ff9200;
-    font-style: bold;
-    font-weight: 500; }
+    font-weight: 700; }
   body.new h3 {
     font-size: .80rem;
     color: #ffffff;
@@ -42,6 +41,20 @@ body.new {
     body.new a :hover {
       color: #999999;
       background-color: #ffffff; }
+
+.navbar {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 1rem;
+  padding: 0; }
+  .navbar a {
+    text-decoration: none;
+    color: #0783bd;
+    padding: 10px; }
+    .navbar a:hover, .navbar a:active {
+      text-decoration: none;
+      color: #000000;
+      background: #f0c200;
+      border-radius: 4px; }
 
 .navlist {
   width: 100%;
@@ -100,20 +113,6 @@ body.new {
         width: 40px;
         height: 7px;
         margin-bottom: 5px; } }
-
-.navbar {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 1rem;
-  padding: 0; }
-  .navbar a {
-    text-decoration: none;
-    color: #0783bd;
-    padding: 10px; }
-    .navbar a:hover, .navbar a:active {
-      text-decoration: none;
-      color: #000000;
-      background: #f0c200;
-      border-radius: 4px; }
 
 .sponsorText {
   font-weight: bold; }
