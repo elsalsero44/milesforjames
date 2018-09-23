@@ -6,10 +6,10 @@
         'pageTitle' => 'Home',
         'contentTitle' => '',
         'raceResult' => [
-            'name' => '2016 Head For Safety 5K',
-            'date' => 'October 1, 2016',
-            'ageLink' => 'http://www.racetime.info/wp-content/uploads/2016/10/MFJ-Head-For-Safety-5K-Age-Group-Results.htm',
-            'overallLink' => 'http://www.racetime.info/wp-content/uploads/2016/10/MFJ-Head-for-Safety-5K-Overall-Results.htm'
+            'name' => '2018 Head For Safety 5K',
+            'date' => 'September 22, 2018',
+            'ageLink' => 'http://www.racetime.info/wp-content/uploads/2018/09/MFJ-Head-For-Safety-5K-Age-Group-Results.pdf',
+            'overallLink' => 'http://www.racetime.info/wp-content/uploads/2018/09/MFJ-Head-For-Safety-5K-Overall-Results.pdf'
         ]
     ];
     

@@ -11,6 +11,12 @@
         'showPledgeChallenge' => $c_bShowPledgeChallenge,
         'raceResults' => [
             [
+                'name' => '2018 Head For Safety 5K',
+                'date' => 'September 22, 2018',
+                'ageLink' => 'http://www.racetime.info/wp-content/uploads/2018/09/MFJ-Head-For-Safety-5K-Age-Group-Results.pdf',
+                'overallLink' => 'http://www.racetime.info/wp-content/uploads/2018/09/MFJ-Head-For-Safety-5K-Overall-Results.pdf'
+            ],
+            [
                 'name' => '2017 Head For Safety 5K',
                 'date' => 'September 29, 2017',
                 'ageLink' => 'http://www.racetime.info/wp-content/uploads/2017/10/Head-for-Safety-5K-Age-Group-Results-1.htm',
